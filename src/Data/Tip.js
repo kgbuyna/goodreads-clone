@@ -3,7 +3,7 @@ const Tip = [
         key: 1, 
         color: "#010101", 
         backgroundColor:"#F5F5F5",
-        title: "Books are better with friends!", 
+        title: "Books are better with friend!", 
         text: "Choose your favorites during the final round of the Goodreads Choice Awards!",
         c_icon: "",
         l_icon:"fa-book ",
